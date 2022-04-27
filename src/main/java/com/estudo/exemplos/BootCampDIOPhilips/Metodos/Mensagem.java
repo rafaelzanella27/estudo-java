@@ -1,4 +1,4 @@
-package com.estudo.exemplos.BootCampDIOPhilips;
+package com.estudo.exemplos.BootCampDIOPhilips.Metodos;
 
 public class Mensagem {
 
