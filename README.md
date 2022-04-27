@@ -1,4 +1,4 @@
-#Projeto para estudos e aplicação de exemplos dos conceitos básicos da linguagem JAVA.
+#Projeto para estudos e aplicação de exemplos e conceitos básicos da linguagem JAVA.
 Tecnologias utilizadas:
 Spring Boot
 Maven
